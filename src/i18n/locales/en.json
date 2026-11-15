@@ -1,0 +1,233 @@
+{
+  "navbar": {
+    "logo": "Van Gug",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "portfolio": "Portfolio",
+      "contact": "Contact"
+    },
+    "ctaButton": "Get Quote",
+    "toggleMenu": "Toggle menu"
+  },
+  "hero": {
+    "altText": "Van Gug custom furniture workshop",
+    "badgesYears": "Premium Quality",
+    "badgesProjects": "Custom Made",
+    "heading": "Custom Furniture Tailored to Your Style",
+    "description": "Kitchens, bedrooms, wardrobes, vanity tables, and custom projects. We craft furniture that transforms your space into a personal masterpiece.",
+    "ctaButton": "Get Started",
+    "viewPortfolio": "View Portfolio"
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "Premium custom furniture crafted with expertise and passion.",
+    "items": {
+      "0": { "title": "Custom Kitchens", "description": "Modern and classic kitchen designs tailored to your lifestyle and space requirements." },
+      "1": { "title": "Bedroom Sets", "description": "Elegant bedroom furniture including beds, nightstands, and storage solutions." },
+      "2": { "title": "Wardrobes & Closets", "description": "Custom built-in and freestanding wardrobes designed for maximum storage and style." },
+      "3": { "title": "Vanity Tables", "description": "Sophisticated vanity tables with integrated storage and mirrors." },
+      "4": { "title": "Custom Projects", "description": "Unique furniture pieces designed and built to your exact specifications." },
+      "5": { "title": "Consultation", "description": "Free consultation to discuss your project and provide detailed estimates." }
+    }
+  },
+  "portfolio": {
+    "heading": "Our Work",
+    "description": "Explore our portfolio of custom furniture projects crafted for homes across Armenia.",
+    "all": "All",
+    "closeModal": "Close modal",
+    "orderSimilar": "Order Similar",
+    "viewOnInstagram": "Instagram",
+    "projects": {
+      "0": { "title": "Modern Kitchen", "category": "Kitchens" },
+      "1": { "title": "Classic Bedroom Set", "category": "Bedrooms" },
+      "2": { "title": "Walk-in Wardrobe", "category": "Wardrobes" },
+      "3": { "title": "Elegant Vanity Table", "category": "Vanities" },
+      "4": { "title": "Contemporary Kitchen", "category": "Kitchens" },
+      "5": { "title": "Custom Closet System", "category": "Wardrobes" }
+    }
+  },
+  "contact": {
+    "heading": "Get In Touch",
+    "description": "Ready to create your custom furniture? Contact us today for a free consultation.",
+    "contactInfo": {
+      "title": "Contact Information"
+    },
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "instagramLabel": "Instagram",
+    "phone1": "098 88 18 93",
+    "phone2": "099 96 81 96",
+    "instagram": "@vangug__",
+    "instagramUrl": "https://www.instagram.com/vangug__/",
+    "fields": {
+      "name": { "label": "Name", "placeholder": "Enter your name" },
+      "phone": { "label": "Phone", "placeholder": "Enter your phone number" },
+      "message": { "label": "Message", "placeholder": "Tell us about your project..." }
+    },
+    "formHeading": "Message Us",
+    "messengersHeading": "Message Us Directly",
+    "messengersDescription": "Choose a convenient messenger to discuss your project:",
+    "messengers": {
+      "whatsapp": "WhatsApp",
+      "viber": "Viber",
+      "telegram": "Telegram"
+    }
+  },
+  "footer": {
+    "description": "Van Gug — Custom furniture manufacturing. Kitchens, bedrooms, wardrobes, vanity tables, and custom projects crafted with precision and passion.",
+    "quickLinks": {
+      "title": "Quick Links"
+    },
+    "services": {
+      "title": "Services"
+    },
+    "contact": {
+      "title": "Contact",
+      "phone": "Phone",
+      "instagram": "Instagram"
+    },
+    "copyright": "© {year} Van Gug. All rights reserved."
+  },
+  "materials": {
+    "heading": "Visual Material Catalog & Project Estimate",
+    "description": "Explore materials used in Armenia — Egger, AGT, Kastamonu, Kronospan, Starwood, Staron, Corian, and Blum / Samet / GTV hardware.",
+    "studio": {
+      "presetsLabel": "Curated Designer Moods:",
+      "previewLabel": "Interactive Interior Preview",
+      "ledOn": "LED Lighting: ON",
+      "ledOff": "LED Lighting: OFF",
+      "tabs": {
+        "project": "1. Type & Size",
+        "facades": "2. Facade Catalog",
+        "stoneHardware": "3. Stone & Hardware"
+      },
+      "furnitureTypeLabel": "What are you planning to order?",
+      "types": {
+        "kitchen": "Kitchen",
+        "wardrobe": "Wardrobe",
+        "bedroom": "Bedroom",
+        "vanity": "Vanity Table"
+      },
+      "sizeLabel": "Approximate Size",
+      "sizes": {
+        "compact": "Compact (up to 2.5m)",
+        "medium": "Medium (2.5 – 4m)",
+        "large": "Large (4m+)",
+        "custom": "By Measurement"
+      },
+      "doorStyleLabel": "Door Profile",
+      "doorStyles": {
+        "smooth": "Smooth Slab",
+        "fluted": "Fluted (3D)",
+        "vitrine": "Glass Vitrine"
+      },
+      "brandFilterLabel": "Brand:",
+      "allBrands": "All Brands",
+      "facadeLabel": "Facade",
+      "countertopLabel": "Countertop",
+      "hardwareLabel": "Hardware",
+      "leadTimeLabel": "Lead time: 15–30 working days",
+      "moistureProof": "Moisture Resistant",
+      "softClose": "Soft-Close",
+      "copySpec": "Copy Spec",
+      "copiedSpec": "Copied!",
+      "orderCombo": "Get Estimate on WhatsApp",
+      "telegramCombo": "Send via Telegram",
+      "comboMessage": "Hello Van Gug! I'd like an estimate for:\n• Type: {type} ({size})\n• Door Style: {doorStyle}\n• Facade: {facade}\n• Countertop: {countertop}\n• Hardware: {hardware}\n• LED Lighting: {led}"
+    },
+    "items": {
+      "0": { "title": "MDF, Acrylic & Enamel", "description": "Moisture-resistant matte and glossy facades with clean edges and rich color options." },
+      "1": { "title": "Natural Wood & Veneer", "description": "Warm walnut, oak, and ash textures selected for long-lasting natural beauty." },
+      "2": { "title": "Stone & Quartz Tops", "description": "Scratch-resistant quartz and acrylic countertops tailored for daily kitchen use." },
+      "3": { "title": "European Hardware", "description": "Soft-close hinges, full-extension runners, and hidden mechanisms built for smooth operation." }
+    }
+  },
+  "process": {
+    "heading": "How We Work",
+    "description": "A transparent four-step process from free measurement to clean installation.",
+    "steps": {
+      "0": { "title": "Measurement & Advice", "description": "We visit your space, take exact measurements, and help choose layout and materials." },
+      "1": { "title": "3D Design", "description": "You see a detailed 3D visualization and exact quote before production begins." },
+      "2": { "title": "Production", "description": "Precision cutting, edging, and assembly in our workshop within 15–30 days." },
+      "3": { "title": "Delivery & Installation", "description": "Careful delivery, clean on-site installation, and hardware adjustment." }
+    }
+  },
+  "estimate": {
+    "heading": "Quick Project Estimate",
+    "description": "Select your project details in 3 clicks and send them directly to WhatsApp or Telegram.",
+    "stepLabel": "Step",
+    "ofLabel": "of",
+    "steps": {
+      "type": "1. Furniture Type",
+      "size": "2. Approximate Size",
+      "material": "3. Preferred Material"
+    },
+    "types": ["Kitchen", "Wardrobe", "Bedroom Set", "Vanity Table", "Custom Project"],
+    "sizes": ["Compact (up to 2.5m)", "Medium (2.5m – 4m)", "Large (4m+)", "Not sure yet"],
+    "materials": ["MDF / Matte", "Acrylic / Gloss", "Wood / Veneer", "Need recommendation"],
+    "summaryTitle": "Your Selection",
+    "sendWhatsApp": "Get Estimate in WhatsApp",
+    "sendTelegram": "Open Telegram",
+    "messageTemplate": "Hello Van Gug! I'd like an estimate for: {type}, size: {size}, material: {material}."
+  },
+  "whyChooseUs": {
+    "imageAlt": "Van Gug custom furniture workshop",
+    "heading": "Why Choose Van Gug",
+    "description": "We combine custom design, accurate measurements, and reliable craftsmanship.",
+    "ctaButton": "Request Free Measurement",
+    "advantages": {
+      "0": { "title": "Free On-Site Measurement", "description": "Accurate laser measurement and layout advice at your home." },
+      "1": { "title": "3D Visualization", "description": "Preview colors, proportions, and storage before production." },
+      "2": { "title": "Quality Materials", "description": "Moisture-resistant boards, natural veneers, and reliable hardware." },
+      "3": { "title": "Clear Deadlines", "description": "Agreed timeline from contract to final installation." },
+      "4": { "title": "Clean Installation", "description": "Careful assembly and adjustment by our own craftsmen." },
+      "5": { "title": "Warranty Support", "description": "Warranty on workmanship and installed hardware." }
+    }
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "description": "Answers to common questions about ordering custom furniture.",
+    "items": {
+      "0": { "question": "How long does manufacturing take?", "answer": "Usually 15 to 30 working days depending on complexity, materials, and project size." },
+      "1": { "question": "Is measurement and 3D design free?", "answer": "Yes, on-site measurement and initial consultation in Yerevan and nearby areas are free when ordering." },
+      "2": { "question": "What are the payment terms?", "answer": "We work with a prepayment to start material procurement and final payment upon installation." },
+      "3": { "question": "Do you deliver and install?", "answer": "Yes, delivery and full professional installation are handled by our team." },
+      "4": { "question": "Do you provide a warranty?", "answer": "Yes, we provide a warranty on both our furniture assembly and hardware." }
+    }
+  },
+  "armenia": {
+    "heading": "Tailored for Clients in Armenia",
+    "description": "Flexible installment options, delivery across Armenia, photo-based quotes, and designer partnerships.",
+    "cards": {
+      "0": {
+        "badge": "INSTALLMENT / ԱՊԱՌԻԿ",
+        "title": "Installment & AMD Payments",
+        "description": "Flexible staged payments or installment plans available through partner banks in Armenia."
+      },
+      "1": {
+        "badge": "YEREVAN & REGIONS",
+        "title": "Free Yerevan Measurement",
+        "description": "Free on-site measurement and delivery in Yerevan, plus installation across regions of Armenia."
+      },
+      "2": {
+        "badge": "QUOTE BY PHOTO",
+        "title": "Estimate from Instagram / Pinterest",
+        "description": "Found a design you love? Send us a screenshot on WhatsApp for a quick preliminary quote."
+      },
+      "3": {
+        "badge": "B2B / DESIGNERS",
+        "title": "Interior Designer Partnerships",
+        "description": "Accurate custom production for interior designers and architects based on your 3D drawings."
+      }
+    },
+    "photoCta": "Send Photo on WhatsApp",
+    "partnerCta": "Discuss Partnership"
+  },
+  "floating": {
+    "whatsappLabel": "Chat on WhatsApp",
+    "callLabel": "Call Van Gug"
+  }
+}
